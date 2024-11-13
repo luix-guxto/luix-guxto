@@ -7,7 +7,7 @@
   
   <br>
 
-  ## About me:
+  <h2>About me:</h2>
 
   I am a Computer Science student with a strong passion for back-end technologies and a collaborative spirit for teamwork. 
   I have experience developing REST APIs using Java and Node.js. 
@@ -27,7 +27,7 @@
 
 ----------------------------------------------------------------------------------------
 
-  ## Skills:
+  <h2>Skills:</h2>
   
   ### Main skills:
   
@@ -94,7 +94,7 @@
 
   ----------------------------------------------
 
-  ## GitHub stats:
+  <h2>GitHub stats:</h2>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luix-guxto&show_icons=true&theme=tokyonight)
   <div align="center">
@@ -144,7 +144,7 @@
 
 ----------------------------------------
 
-  ## Contacts:
+  <h2>Contacts:</h2>
 
   [![Linkedin](https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=Linkedin&labelColor=e7e7e7&logoColor=0308a0)](https://linkedin.com/in/luix-guxto)&nbsp;
   [![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&labelColor=e7e7e7&logoColor=ca0000)](mailto:luisaugustoway@gmail.com)&nbsp;
@@ -152,7 +152,7 @@
 
 -----------------------------------------
 
-  ## Certificates:
+  <h2>Certificates:</h2>
   
   [![Linkedin](https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=Linkedin&labelColor=e7e7e7&logoColor=0308a0)](https://www.linkedin.com/in/luix-guxto/details/certifications/)&nbsp;
   [![Driver](https://img.shields.io/badge/-Driver-0D1117?style=for-the-badge&logo=google-drive&labelColor=e7e7e7)](https://drive.google.com/drive/folders/1LTbZCsEMOe7uimBSmtMftSdys0gBeW4K?usp=sharing)&nbsp;
