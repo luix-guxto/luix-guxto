@@ -108,7 +108,7 @@
   <h2>More Informations:</h2>
 
   ### Educational Institutions:
-  [![UniBH](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Unibh.png/200px-Unibh.png)](https://unibh.br)
+  [![UniBH](https://landing.unibh.br/assets/img/logo-unibh.svg?width=169/height=30/format=webp)](https://unibh.br)
   [![DIO](https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)](https://dio.me)
 
   <br>
