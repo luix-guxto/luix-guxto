@@ -105,11 +105,17 @@
 
 -------------------------------------------------
 
-  <h2>More Informations:</h2>
+## More Informations:
 
-  ### Educational Institutions:
-  [![UniBH](https://landing.unibh.br/assets/img/logo-unibh.svg?width=169/height=30/format=webp)](https://unibh.br)
-  [![DIO](https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)](https://dio.me)
+  <div align="center">
+    <h3 align="center">Educational Institutions:</h3>
+    <a href="https://unibh.br">
+      <p align="center"><img align="center" style="background-color: #e7e7e7; border-radius: 15px;" width="8%" src="https://landing.unibh.br/assets/img/logo-unibh.svg?width=169/height=30/format=webp"/></p>
+    </a>
+    <a href="https://dio.me">
+      <p align="center"><img align="center" style="background-color: #e7e7e7; border-radius: 15px;" width="8%" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn"/></p>
+    </a> 
+  </div>
 
   <br>
 
@@ -117,7 +123,7 @@
     <h3 align="center">Professional experience:</h3>
     <div align="center">
       <a href="https://it-eam.com">
-        <img align="center"  width="10%" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_4576968/Logo%20original_1.png"/>
+        <img align="center" style="background-color: #e7e7e7; border-radius: 15px;" width="8%" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_4576968/Logo%20original_1.png"/>
       </a>
       <br>
       <p align="center">
