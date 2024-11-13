@@ -105,17 +105,11 @@
 
 -------------------------------------------------
 
-## More Informations:
+  <h2>More Informations:</h2>
 
-  <div align="center">
-    <h3 align="center">Educational Institutions:</h3>
-    <a href="https://unibh.br">
-      <p align="center"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Unibh.png/200px-Unibh.png"/></p>
-    </a>
-    <a href="https://dio.me">
-      <p align="center"><img align="center" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn"/></p>
-    </a> 
-  </div>
+  ### Educational Institutions:
+  [![UniBH](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Unibh.png/200px-Unibh.png)](https://unibh.br)
+  [![DIO](https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)](https://dio.me)
 
   <br>
 
