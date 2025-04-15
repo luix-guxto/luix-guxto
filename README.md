@@ -1,9 +1,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luís+Augusto;I'm+back-end+programmer;I+from+Brazil,+Belo+Horizonte,+MG;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luís+Augusto;I'm+back-end+programmer;I+from+Brazil,+Belo+Horizonte,+MG;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+Augusto;Sou+programador+back-end;Sou+de+Belo+Horizonte+-+MG,+Brasil;Eu+estudo+ciências+da+computação;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+Augusto;Sou+programador+back-end;Sou+de+Belo+Horizonte+-+MG,+Brasil;Eu+estudo+ciências+da+computação;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
   
   <br>
 
